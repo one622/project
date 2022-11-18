@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167846267447",
+    "project_id": "toseeadoctor",
+    "storage_bucket": "toseeadoctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167846267447:android:b3c30a52887121f3948db2",
+        "android_client_info": {
+          "package_name": "com.example.toseeadoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167846267447-c9ulhujcghvp667co8mnghfi15hpicuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpiApf8tNm_D0crm1f8YwFXQjJRgDDB3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167846267447-c9ulhujcghvp667co8mnghfi15hpicuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
